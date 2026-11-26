@@ -1,0 +1,9 @@
+{
+  "name": "vosk-browser",
+  "version": "0.0.8-fruity.1",
+  "description": "Copie modifiee de vosk-browser 0.0.8, voir MODIFICATIONS.md",
+  "type": "module",
+  "main": "./dist/vosk.js",
+  "module": "./dist/vosk.js",
+  "license": "Apache-2.0"
+}
